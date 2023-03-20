@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, world.
+
+![LucidOne](https://raw.githubusercontent.com/LucidOne/lucidone/master/logo.svg)  
 
 <!--
 **LucidOne/lucidone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
